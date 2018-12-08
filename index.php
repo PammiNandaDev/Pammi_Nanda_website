@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +33,7 @@
             </div>
             <div class="collapse navbar-collapse" id="john-bar">
                 <ul class="nav navbar-nav">
-                    
+                    <li>
                         <a href="templates/services.html"> SERVICES </a>
                     </li>
                     <li>
