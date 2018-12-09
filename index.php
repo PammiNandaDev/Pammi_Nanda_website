@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,6 +32,7 @@
             </div>
             <div class="collapse navbar-collapse" id="john-bar">
                 <ul class="nav navbar-nav">
+
                     <li>
                         <a href="templates/services.html"> SERVICES </a>
                     </li>
@@ -45,6 +45,9 @@
                     <li>
                         <a href="templates/Photogallery.html"> PHOTOGALLERY </a>
                     </li>
+                    <li>
+                        <a href="templates/PNF_newsletters.html"> PNF NEWSLETTERS  </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -54,8 +57,8 @@
 <div class="container-fluid">
 
     <div class="row">
-        <div class="text-center jernej">
-            <img src="images/pnf_logo.jpg" alt="PNF logo" class="responsive">
+        <div class="text-center">
+            <img src="images/logo2.jpg" alt="PNF logo" class="responsive">
         </div>
     </div>
 </div><!--navbar ends-->
